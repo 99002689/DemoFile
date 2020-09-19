@@ -1,7 +1,7 @@
 /** 
 * @file calculator_operations.h
 * Calculator application with 4 mathematical operations
-*
+*this is code is copied from bharath and modified as requirement
 */
 #ifndef __CALCULATOR_OPERATIONS_H__
 #define __CALCULATOR_OPERATIONS_H__
