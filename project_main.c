@@ -1,5 +1,5 @@
 #include <calculator_operations.h>
-
+/*this code is copied from bharath code*/
 /* Status of the operation requested */
 #define VALID   (1)
 #define INVALID (0)
@@ -97,6 +97,7 @@ void calculator_menu(void)
             __fpurge(stdin);
             getchar();
             break;
+/* this is mycode*/
 	case MODULUS:
             printf("\n\t%d % %d = %d\nEnter to continue", 
             calculator_operand1, 
