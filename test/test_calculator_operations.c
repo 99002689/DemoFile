@@ -1,7 +1,9 @@
 #include <CUnit/Basic.h>
 #include <CUnit/CUnit.h>
 
-/* Modify these two lines according to the project */
+
+/* Modify these two lines according to the project 
+this is code is copied from bharath and modified as requirement*/
 #include <calculator_operations.h>
 #define PROJECT_NAME    "Calculator"
 
